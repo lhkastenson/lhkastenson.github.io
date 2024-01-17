@@ -1,19 +1,17 @@
 ---
 layout: post
 title:  "Platitudes"
-date:   2024-01-16 20:57:55 -0600
+date:   2024-01-16 20:57:55 -0500
 categories: personal
 ---
 
-# platitudes
-
-> platitude
-> plat·i·tude
-> /ˈpladəˌto͞od/
-> noun
-> noun: **platitude**; plural noun: **platitudes**
-> a remark or statement, especially one with a moral content, that has > been used too often to be interesting or thoughtful.
-sourced from the Oxford Languages Dictionary
+## **platitude**  
+### plat·i·tude  
+### /ˈpladəˌto͞od/  
+> noun  
+> noun: **platitude**; plural noun: **platitudes**  
+> a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful.    
+- Oxford Languages Dictionary
 
 Based on that definition alone, I think platitudes get a bad rap. Certainly they’re overused, you see them plastered on cafe walls, printed on souvenir t-shirts, and spoken at the end of `CURRENT_YEAR()` car ads. They’ve become stereotypes for marketing and banal comments you send someone just to be nice. But *some* stereotypes tend to exist for a reason.
 
@@ -29,6 +27,6 @@ But there was a moment where one of those platitudes just fell into place. It wa
 
 And maybe that’s the context the definition is missing: “a remark or statement…used too often to be interesting or thoughtful – **under normal circumstances**.”
 
-I’m happy to report, *I’m happy*. Doing things feels good, as evidenced by this being my first blog post here. I’m grateful to my past self for actually setting up a little blog and renewing my domain.I have things planned and I think I will enjoy doing them.
+I’m happy to report, *I’m happy*. Doing things feels good, as evidenced by this being my first blog post here. I’m grateful to my past self for actually setting up a little blog and renewing my domain. I have things planned and I think I will enjoy doing them.
 
 I won’t share exactly which platitude helped me out, trust me, you’ve heard this one. But next time you’re browsing those greeting cards “don’t take yourself so seriously.”
