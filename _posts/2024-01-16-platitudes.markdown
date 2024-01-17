@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Platitudes!"
+title:  "Platitudes"
 date:   2024-01-16 20:57:55 -0600
 categories: personal
 ---
